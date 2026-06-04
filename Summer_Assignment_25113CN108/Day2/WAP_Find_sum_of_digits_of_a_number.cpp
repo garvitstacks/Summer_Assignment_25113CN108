@@ -16,7 +16,7 @@ int main(){
         sum = sum + rem;
         n = n / 10;}
 
-    cout<<"Sum of digits of "<<temp<<" is: "<<sum<<endl;
+    cout<<"Sum of digits of "<<temp<<" is: "<<sum;
 
     return 0;
 }
